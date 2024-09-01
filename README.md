@@ -24,6 +24,15 @@ Welcome to **FoodFiesta** – a seamless food ordering experience at your finger
 
 To get started with **FoodFiesta**, clone the repository and follow the setup instructions in the documentation.
 
+## User Authentication:
+User authentication is a crucial feature in many applications, including food ordering systems, where it ensures that only authorized users can access specific functionalities or data.
+
+## Order Tracking:
+Order tracking is a vital component in food ordering applications, allowing users to monitor the status and progress of their orders from placement to delivery.
+
+## Payment System:
+The payment system is a critical component of any food ordering application, enabling users to securely complete transactions and make payments for their orders.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
